@@ -11,6 +11,7 @@ namespace ConsoleApplication111111
         static void Main(string[] args)
         {
             int c;
+            var d;
         }
     }
 }
