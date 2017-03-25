@@ -10,6 +10,7 @@ namespace pr3
     {
         static void Main(string[] args)
         {
+            var a;
         }
     }
 }
